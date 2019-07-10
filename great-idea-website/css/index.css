@@ -64,3 +64,46 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+* {
+	box-sizing: border-box;
+	border:1px solid black !important;
+}
+.navigation {
+	color:grey;
+}
+.heading {
+	color:black;
+	width: 100px;
+	padding:10px;
+	
+	height: 500px;
+	font-size: 60px;
+
+}
+#button {
+	display:block;
+	padding:5px;
+	margin:5px;
+}
+
+.navigation a {
+	text-align:center;
+	margin-right: 20px;
+	padding:50px;
+}
+	.navigation a {
+	display: inline-block;
+	
+	width: 10%;
+
+}
+}
+title {
+	
+}
+
+#pic {
+display: block;
+margin-left: auto;
+
+}
